@@ -1,5 +1,5 @@
 # react-vite-starter-template
-
+```
 my-project/
 │
 ├── public/                 # Static assets served directly (index.html, images, etc.)
@@ -49,3 +49,4 @@ my-project/
 ├── package.json            # NPM dependencies and scripts
 ├── vite.config.js          # Vite configuration file
 └── README.md               # Project documentation
+```
